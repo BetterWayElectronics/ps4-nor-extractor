@@ -1,5 +1,3 @@
-# ps4norextractor
-BwE PS4 NOR Extractor
 ===========================================================
 |            __________          __________               |
 |            \______   \ __  _  _\_   ____/               |
@@ -7,7 +5,7 @@ BwE PS4 NOR Extractor
 |             |    |   \\        //       \               |
 |             |______  / \__/\__//______  /               |
 |                    \/PS4 NOR EXTRACTOR\/v1.2            |
-|        		                                          |
+|        		                                              |
 ===========================================================
 
 Hello, this is the the NOR extracting code straight out of my PS4 NOR Validator. Albeit solely in Zecoxao style.
