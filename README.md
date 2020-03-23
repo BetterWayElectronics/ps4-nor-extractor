@@ -1,3 +1,4 @@
+# BwE PS4 NOR Extractor
 
 Hello, this is the the NOR extracting code straight out of my PS4 NOR Validator. Albeit solely in Zecoxao style.
 My personal methodology splits the files themselves from the empty space. Given if you were going to modify the files, its best to put them back in with the idea that it will FIT.
